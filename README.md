@@ -2,8 +2,8 @@
 
 I am a highly motivated full-stack developer. Here you will find projects that I have worked on or continue to work on. I use a variety of web development technologies and continue to work on expanding my technology stack. I am looking for an opportunity to collaborate on a web project on a full-time or part-time basis.
 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/maryna-sereda/)
-[Telegram](https://t.me/MarynaSereda)
+- [LinkedIn](https://www.linkedin.com/in/maryna-sereda/)
+- [Telegram](https://t.me/MarynaSereda)
 
 <!--
 **marisereda/marisereda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
